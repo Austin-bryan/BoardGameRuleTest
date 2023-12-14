@@ -1,2 +1,1 @@
 # BoardGameRuleTest
-# BoardGameRuleTest
